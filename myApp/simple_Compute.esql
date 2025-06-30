@@ -9,6 +9,6 @@ CREATE COMPUTE MODULE simple_Compute
 
 	
 	CREATE PROCEDURE CopyEntireMessage() BEGIN
-		SET OutputRoot.JSON.Data.inf = 'this is jenkins hellow sir ';
+		SET OutputRoot.JSON.Data.inf = 'this is jenkins sir how can i help u  ';
 	END;
 END MODULE;
